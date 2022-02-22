@@ -11,3 +11,5 @@ Longitude and Latitude
 Pervious locations with time spent there
 
 Current location address
+
+(it also looks nice)
