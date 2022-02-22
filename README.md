@@ -2,7 +2,7 @@
 GPS app that tracks your location that has a dark mode feature and power save mode.
 This is made for android devices and was coded with Android Studio
 
-Displays 
+Displays:
 
 Distance moved in meters
 
